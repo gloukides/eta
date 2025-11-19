@@ -1,3 +1,12 @@
+This is the code for the paper  
+
+Fast Assessment of Eulerian Trails in Graphs with Applications
+
+by Alessio Conte, Roberto Grossi, Grigorios Loukides, Nadia Pisanti, Solon P. Pissis, and Giulia Punzi. 
+
+ACM Transactions on Knowledge Discovery from Data
+https://doi.org/10.1145/3771997 
+
 Copyright (C) 2024 Grigorios Loukides and Alessio Conte
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
