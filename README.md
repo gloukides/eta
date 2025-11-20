@@ -28,7 +28,7 @@ Eigen: https://gitlab.com/libeigen/eigen/-/releases
 Boost: https://www.boost.org/users/download/
 sdsl-lite: https://github.com/simongog/sdsl-lite
 
-Also, edit the LFLFAGS in MAkefile.64-bit.gcc
+Also, edit the LFLFAGS in Makefile.64-bit.gcc
 
 After this, the program can be compiled by 
 make -f Makefile.64-bit.gcc 
